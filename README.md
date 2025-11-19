@@ -2,7 +2,7 @@
 
 <div align="center">
 
-🌡️
+<h1>🌡️</h1>
 
 **Professional Battery Temperature Monitoring for Samsung Galaxy Watch 5**
 
@@ -235,9 +235,6 @@ body, room, or environmental temperature.
 
 ### Contact Information
 - **Developer**: GoodTime Micro®
-- **Email**: support@goodtimemicro.com
-- **Website**: https://goodtimemicro.com
-- **Documentation**: https://docs.goodtimemicro.com/battery-thermometer
 
 ### Professional Services
 - Custom Wear OS development
