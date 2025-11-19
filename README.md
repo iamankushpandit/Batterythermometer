@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Battery Thermometer Logo](app/src/main/res/drawable/thermometer_icon.xml)
+🌡️
 
 **Professional Battery Temperature Monitoring for Samsung Galaxy Watch 5**
 
